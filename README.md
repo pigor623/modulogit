@@ -1,1 +1,1 @@
-criando meu primeiro sistema com tecnologia git
+alterando o README para descrever melhor meu sistema
