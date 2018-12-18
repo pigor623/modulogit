@@ -1,1 +1,1 @@
-alterando o README para descrever melhor meu sistema
+Este repositório foi criado exclusivamente para praticar as aulas do módulo sobre tecnologia GIT.
